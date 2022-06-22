@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<p>Welcome to my page! </br> I'm Fangki, Web developer from <img src="https://cdn-icons-png.flaticon.com/512/6622/6622278.png" width="13"/> <b>Tegal, Central Java, Indonesia</b></p>
+<p>Welcome to my page! </br> I'm Fangki, Web developer from <img src="https://cdn-icons-png.flaticon.com/512/6622/6622278.png" width="30"/> <b>Tegal, Central Java, Indonesia</b></p>
 <h3>Things I code with</h3>
 <p>
     <img alt="GitHub" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white" />
