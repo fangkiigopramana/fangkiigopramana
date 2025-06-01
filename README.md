@@ -4,7 +4,7 @@
 <p>Welcome to my page! </br> I'm Fangki, Web developer from <b>Tegal, Central Java, Indonesia</b><img src="https://cdn-icons-png.flaticon.com/512/6622/6622278.png" width="30"/></p>
 <h3>Things I code with</h3>
 <p>
-    <img alt="GitHub" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white" />
+    <img alt="GitHub" src="http://skillicons.dev/icons?i=git" />
     <img alt="git" src="https://img.shields.io/badge/-Git-ffa43b?style=flat-square&logo=git&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-836ff1?style=flat-square&logo=php&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fbff14?style=flat-square&logo=javascript&logoColor=black" />
