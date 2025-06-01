@@ -4,14 +4,14 @@
 <p>Welcome to my page! </br> I'm Fangki, Web developer from <b>Tegal, Central Java, Indonesia</b><img src="https://cdn-icons-png.flaticon.com/512/6622/6622278.png" width="30"/></p>
 <h3>Things I code with</h3>
 <p>
-    <img alt="GitHub" src="http://skillicons.dev/icons?i=git" />
-    <img alt="git" src="https://img.shields.io/badge/-Git-ffa43b?style=flat-square&logo=git&logoColor=white" />
-    <img alt="PHP" src="https://img.shields.io/badge/-PHP-836ff1?style=flat-square&logo=php&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fbff14?style=flat-square&logo=javascript&logoColor=black" />
-    <img alt="html5" src="https://img.shields.io/badge/-HTML5-ff603d?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-ccccc2?style=flat-square&logo=laravel&logoColor=orange" />
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0005db?style=flat-square&logo=mysql&logoColor=white" />
+    <img alt="GitHub" src="http://skillicons.dev/icons?i=github" />
+    <img alt="git" src="http://skillicons.dev/icons?i=git" />
+    <img alt="PHP" src="http://skillicons.dev/icons?i=php" />
+    <img alt="JavaScript" src="http://skillicons.dev/icons?i=javascript" />
+    <img alt="html5" src="http://skillicons.dev/icons?i=html" />
+    <img alt="Laravel" src="http://skillicons.dev/icons?i=laravel" />
+    <img alt="Nodejs" src="http://skillicons.dev/icons?i=nodejs" />
+    <img alt="MySQL" src="http://skillicons.dev/icons?i=mysql" />
 </p>
 
 <h3 align="center">Where to find me</h3>
