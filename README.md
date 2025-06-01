@@ -9,6 +9,7 @@
     <img alt="PHP" src="http://skillicons.dev/icons?i=php" />
     <img alt="JavaScript" src="http://skillicons.dev/icons?i=javascript" />
     <img alt="html5" src="http://skillicons.dev/icons?i=html" />
+    <img alt="NextJS" src="http://skillicons.dev/icons?i=nextjs" />
     <img alt="Laravel" src="http://skillicons.dev/icons?i=laravel" />
     <img alt="Nodejs" src="http://skillicons.dev/icons?i=nodejs" />
     <img alt="MySQL" src="http://skillicons.dev/icons?i=mysql" />
